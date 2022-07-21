@@ -9,7 +9,10 @@ A implementação será feita utilizando programas de armazenamento e estruturas
 
     **Registros:** 
     
-     **Blocos:** são a menor unidade de transferência para a memória principal. Os blocos são representações lógicas. 
+     **Blocos:** são a menor unidade de transferência para a memória principal. Os blocos são representações lógicas e são mapeados de forma sequêncial.
+                 Um bloco pode conter um ou mais setores do disco e de maneira sequencial. 
+                 
+      
 
 * Disco Magnéticos:
 
